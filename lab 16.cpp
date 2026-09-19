@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
   //1
@@ -13,8 +13,8 @@ cin>>semester;
 cout<<"You have paid "<<semester *total <<" Rupees till yet.";
     return 0;
     
-}*/
-/*#include<iostream>
+}
+#include<iostream>
 using namespace std;
 int main(){
   //2
@@ -29,8 +29,8 @@ int main(){
   cin>>petrol;
   cout<<"Your total fuel consumption is :  "<<(ful_km/distance)*petrol;
   return 0;
-}*/
-/*#include<iostream>
+}
+#include<iostream>
 using namespace std;
 int main(){
   int rows;
@@ -47,12 +47,6 @@ int main(){
   int remaining=total_seats-present_students;
   cout<<"Remaining seats are: "<<remaining<<endl;
   return 0;
-}*/
-#include<iostream>
-using namespace std;
-int main(){
-  
-
-   return 0;
 }
+
 
