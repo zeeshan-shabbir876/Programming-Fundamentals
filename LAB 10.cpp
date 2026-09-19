@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main(){
 int Num1, Num2;
@@ -10,8 +10,8 @@ int Num1, Num2;
     cout<<"Your Sum is : "<<sum;
 
     return 0;
-}*/
-/*#include <iostream>
+}
+#include <iostream>
 using namespace std;
 int main(){
     int PF,DS,AICT,ENG;
@@ -27,7 +27,7 @@ int main(){
     int avg= sum/4;
     cout<<"Your Average marks are: "<<avg;
     return0;
-}*/
+}
 #include <iostream>
 using namespace std;
 int main(){
