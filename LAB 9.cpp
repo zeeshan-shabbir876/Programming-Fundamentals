@@ -44,10 +44,10 @@ int main(){
     cin>>marks3;
      cout<<"Enter Your Marks in ENG: "<<endl;
     cin>>marks4;
-    int per1 =(marks1/100)*100; 
-    int per2 =(marks1/100)*100; 
-    int per3 =(marks3/100)*100; 
-    int per4 =(marks4/100)*100; 
+    float per1 =(marks1/100.0)*100; 
+    float per2 =(marks1/100.0)*100; 
+    float per3 =(marks3/100.0)*100; 
+    float per4 =(marks4/100.0)*100; 
     cout<<"Sr  Subject  Obtain Marks  Total MARKS  PERCENTAGE"<<endl;
     cout<<"01  PF                "<<marks1<<"      100       "<<(marks1/100)*100<<endl;
     cout<<"02  DS                "<<marks2<<"      100       "<<(marks1/100)*100<<endl;
